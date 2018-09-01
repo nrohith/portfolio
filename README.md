@@ -1,2 +1,2 @@
 # Rohith's portfolio
-Demonstrating usage of AWS resources
+Demonstrating usage of AWS resources.
